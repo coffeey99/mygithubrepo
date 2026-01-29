@@ -1,6 +1,6 @@
 # Learning Projects – IT Specialist Training
 
-I am currently retraining as an **IT Specialist (Fachinformatiker)**.
+I am currently retraining as an **IT Specialist (Fachinformatiker Systemintegration)**.
 
 In this repository, I document some of my **learning projects and exercises** as part of my training.
 
